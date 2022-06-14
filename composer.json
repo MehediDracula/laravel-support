@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "mehedi/uniquewith-validator": "dev-l9-compatibility",
+        "mehedi/uniquewith-validator": "dev-master",
         "watson/validating": "^7.0.0",
         "spatie/laravel-schemaless-attributes": "^2.3.0"
     },
